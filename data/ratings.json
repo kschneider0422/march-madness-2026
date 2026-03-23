@@ -1,0 +1,274 @@
+{
+    "Arizona": {
+        "AdjEM": 37.9,
+        "AdjT": 69.7
+    },
+    "Michigan": {
+        "AdjEM": 37.9,
+        "AdjT": 70.9
+    },
+    "Duke": {
+        "AdjEM": 37.86,
+        "AdjT": 65.6
+    },
+    "Houston": {
+        "AdjEM": 34.58,
+        "AdjT": 63.4
+    },
+    "Florida": {
+        "AdjEM": 33.36,
+        "AdjT": 70.4
+    },
+    "Illinois": {
+        "AdjEM": 33.3,
+        "AdjT": 65.6
+    },
+    "Iowa St.": {
+        "AdjEM": 33.15,
+        "AdjT": 67.0
+    },
+    "Purdue": {
+        "AdjEM": 31.92,
+        "AdjT": 64.5
+    },
+    "Michigan St.": {
+        "AdjEM": 29.07,
+        "AdjT": 66.3
+    },
+    "Connecticut": {
+        "AdjEM": 27.59,
+        "AdjT": 64.6
+    },
+    "Vanderbilt": {
+        "AdjEM": 27.24,
+        "AdjT": 68.7
+    },
+    "Nebraska": {
+        "AdjEM": 27.22,
+        "AdjT": 66.6
+    },
+    "Gonzaga": {
+        "AdjEM": 26.86,
+        "AdjT": 68.4
+    },
+    "Tennessee": {
+        "AdjEM": 26.75,
+        "AdjT": 65.1
+    },
+    "St. John's": {
+        "AdjEM": 26.57,
+        "AdjT": 69.6
+    },
+    "Alabama": {
+        "AdjEM": 26.03,
+        "AdjT": 73.2
+    },
+    "Texas Tech": {
+        "AdjEM": 25.8,
+        "AdjT": 66.1
+    },
+    "Arkansas": {
+        "AdjEM": 25.77,
+        "AdjT": 71.3
+    },
+    "Virginia": {
+        "AdjEM": 25.76,
+        "AdjT": 65.9
+    },
+    "Louisville": {
+        "AdjEM": 24.63,
+        "AdjT": 69.7
+    },
+    "Kansas": {
+        "AdjEM": 24.2,
+        "AdjT": 67.8
+    },
+    "Iowa": {
+        "AdjEM": 23.46,
+        "AdjT": 62.7
+    },
+    "Wisconsin": {
+        "AdjEM": 23.14,
+        "AdjT": 68.9
+    },
+    "BYU": {
+        "AdjEM": 22.78,
+        "AdjT": 69.9
+    },
+    "Ohio St.": {
+        "AdjEM": 22.17,
+        "AdjT": 66.0
+    },
+    "UCLA": {
+        "AdjEM": 21.91,
+        "AdjT": 64.9
+    },
+    "Saint Mary's": {
+        "AdjEM": 21.86,
+        "AdjT": 64.9
+    },
+    "Utah St.": {
+        "AdjEM": 21.54,
+        "AdjT": 67.7
+    },
+    "Kentucky": {
+        "AdjEM": 20.98,
+        "AdjT": 68.4
+    },
+    "Miami FL": {
+        "AdjEM": 20.68,
+        "AdjT": 67.7
+    },
+    "North Carolina": {
+        "AdjEM": 20.18,
+        "AdjT": 68.0
+    },
+    "Texas": {
+        "AdjEM": 20.11,
+        "AdjT": 66.7
+    },
+    "Saint Louis": {
+        "AdjEM": 19.58,
+        "AdjT": 71.1
+    },
+    "Villanova": {
+        "AdjEM": 19.51,
+        "AdjT": 65.4
+    },
+    "Georgia": {
+        "AdjEM": 19.19,
+        "AdjT": 71.7
+    },
+    "N.C. State": {
+        "AdjEM": 19.18,
+        "AdjT": 69.1
+    },
+    "Santa Clara": {
+        "AdjEM": 19.05,
+        "AdjT": 69.1
+    },
+    "Clemson": {
+        "AdjEM": 18.57,
+        "AdjT": 64.1
+    },
+    "Texas A&M": {
+        "AdjEM": 18.57,
+        "AdjT": 70.2
+    },
+    "VCU": {
+        "AdjEM": 17.56,
+        "AdjT": 68.6
+    },
+    "TCU": {
+        "AdjEM": 17.37,
+        "AdjT": 67.7
+    },
+    "SMU": {
+        "AdjEM": 16.85,
+        "AdjT": 68.5
+    },
+    "South Florida": {
+        "AdjEM": 16.82,
+        "AdjT": 71.6
+    },
+    "UCF": {
+        "AdjEM": 14.98,
+        "AdjT": 69.5
+    },
+    "Missouri": {
+        "AdjEM": 14.81,
+        "AdjT": 66.3
+    },
+    "McNeese": {
+        "AdjEM": 12.45,
+        "AdjT": 66.1
+    },
+    "Akron": {
+        "AdjEM": 12.03,
+        "AdjT": 70.2
+    },
+    "Northern Iowa": {
+        "AdjEM": 10.91,
+        "AdjT": 62.3
+    },
+    "High Point": {
+        "AdjEM": 9.55,
+        "AdjT": 70.2
+    },
+    "Hofstra": {
+        "AdjEM": 9.02,
+        "AdjT": 64.7
+    },
+    "Miami OH": {
+        "AdjEM": 8.65,
+        "AdjT": 69.8
+    },
+    "Cal Baptist": {
+        "AdjEM": 6.1,
+        "AdjT": 66.0
+    },
+    "Hawaii": {
+        "AdjEM": 5.64,
+        "AdjT": 69.9
+    },
+    "North Dakota St.": {
+        "AdjEM": 4.58,
+        "AdjT": 66.6
+    },
+    "Wright St.": {
+        "AdjEM": 2.38,
+        "AdjT": 67.2
+    },
+    "Troy": {
+        "AdjEM": 1.19,
+        "AdjT": 64.9
+    },
+    "Kennesaw St.": {
+        "AdjEM": 1.17,
+        "AdjT": 71.1
+    },
+    "Idaho": {
+        "AdjEM": 1.07,
+        "AdjT": 67.9
+    },
+    "Penn": {
+        "AdjEM": 0.96,
+        "AdjT": 69.1
+    },
+    "Siena": {
+        "AdjEM": -1.04,
+        "AdjT": 64.7
+    },
+    "Furman": {
+        "AdjEM": -1.48,
+        "AdjT": 66.0
+    },
+    "Queens": {
+        "AdjEM": -1.76,
+        "AdjT": 69.7
+    },
+    "UMBC": {
+        "AdjEM": -1.82,
+        "AdjT": 66.4
+    },
+    "Tennessee St.": {
+        "AdjEM": -2.02,
+        "AdjT": 70.6
+    },
+    "Howard": {
+        "AdjEM": -2.67,
+        "AdjT": 69.1
+    },
+    "LIU": {
+        "AdjEM": -4.01,
+        "AdjT": 67.9
+    },
+    "Prairie View A&M": {
+        "AdjEM": -10.16,
+        "AdjT": 70.7
+    },
+    "Lehigh": {
+        "AdjEM": -11.13,
+        "AdjT": 66.8
+    }
+}
