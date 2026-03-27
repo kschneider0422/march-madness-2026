@@ -1,0 +1,91 @@
+                                                       Probability
+Winner                                                            
+Patrick Commers                                           0.217048
+Tyler Krause                                              0.177796
+Nathan Sanches                                            0.146903
+George Wright                                             0.136709
+Serigne Diaw                                              0.098102
+Keith Schneider                                           0.072617
+Bobby Ingram                                              0.058627
+Koy Kubasta                                               0.028993
+Mark Hurst                                                0.014401
+Keith Schneider, Tyler Krause                             0.013655
+Danny Ryan, Mark Hurst                                    0.007300
+Dan Wros                                                  0.006722
+Danny Ryan, Keith Schneider, Mark Hurst                   0.004016
+Keith Schneider, Mark Hurst                               0.003447
+Justin Pajela                                             0.003408
+Ian Thorpe                                                0.003338
+George Wright, Mark Hurst                                 0.002937
+Keith Schneider, Mark Hurst, Tyler Krause                 0.002111
+Danny Ryan, Keith Schneider, Mark Hurst, Tyler Krause     0.000701
+Danny Ryan, George Wright, Mark Hurst                     0.000550
+Mark Hurst, Tyler Krause                                  0.000338
+Koy Kubasta, Serigne Diaw                                 0.000282
+
+
+                                                                      Probability
+Second                                                                           
+Patrick Commers                                                          0.182809
+Tyler Krause                                                             0.158993
+Serigne Diaw                                                             0.107490
+George Wright                                                            0.095915
+Keith Schneider                                                          0.085475
+Koy Kubasta                                                              0.061498
+Dan Wros                                                                 0.042914
+none                                                                     0.035337
+Justin Calvillo                                                          0.034662
+Ian Thorpe                                                               0.027224
+Justin Pajela                                                            0.021480
+Bobby Ingram                                                             0.020868
+Nathan Sanches                                                           0.019405
+Keith Schneider, Tyler Krause                                            0.017550
+Mark Hurst                                                               0.017422
+Danny Ryan, Mark Hurst                                                   0.015698
+George Wright, Tyler Krause                                              0.015135
+Danny Ryan                                                               0.014215
+Danny Ryan, George Wright, Mark Hurst                                    0.008929
+Keith Schneider, Mark Hurst                                              0.007129
+Koy Kubasta, Serigne Diaw                                                0.004068
+Danny Ryan, Keith Schneider, Mark Hurst                                  0.002627
+Mark Hurst, Tyler Krause                                                 0.001287
+Danny Ryan, George Wright, Keith Schneider, Mark Hurst                   0.000705
+George Wright, Keith Schneider                                           0.000452
+Danny Ryan, George Wright, Keith Schneider, Mark Hurst, Tyler Krause     0.000363
+Danny Ryan, Mark Hurst, Tyler Krause                                     0.000202
+George Wright, Mark Hurst                                                0.000151
+
+
+                                                                      Probability
+Third                                                                            
+Koy Kubasta                                                              0.193034
+Justin Calvillo                                                          0.108586
+Dan Wros                                                                 0.106930
+Patrick Commers                                                          0.087905
+none                                                                     0.081673
+George Wright                                                            0.069440
+Tyler Krause                                                             0.057760
+Serigne Diaw                                                             0.053535
+Keith Schneider                                                          0.037532
+Justin Pajela                                                            0.037094
+Ian Thorpe                                                               0.031529
+Mark Hurst                                                               0.019810
+Danny Ryan                                                               0.019361
+Danny Ryan, Mark Hurst                                                   0.018875
+Bobby Ingram                                                             0.016607
+George Wright, Keith Schneider                                           0.015948
+Koy Kubasta, Serigne Diaw                                                0.009564
+Danny Ryan, George Wright, Mark Hurst                                    0.009430
+Keith Schneider, Mark Hurst                                              0.005037
+Nathan Sanches                                                           0.003803
+Danny Ryan, George Wright, Keith Schneider, Mark Hurst, Tyler Krause     0.003179
+Danny Ryan, Mark Hurst, Tyler Krause                                     0.002786
+Bobby Ingram, Ian Thorpe                                                 0.002287
+Mark Hurst, Tyler Krause                                                 0.002089
+George Wright, Mark Hurst                                                0.001647
+George Wright, Tyler Krause                                              0.001455
+Keith Schneider, Tyler Krause                                            0.001158
+Danny Ryan, George Wright, Keith Schneider, Mark Hurst                   0.000803
+Danny Ryan, George Wright, Mark Hurst, Tyler Krause                      0.000419
+Danny Ryan, Keith Schneider, Mark Hurst, Tyler Krause                    0.000382
+Danny Ryan, Keith Schneider, Mark Hurst                                  0.000342
